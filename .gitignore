@@ -1,0 +1,16 @@
+# IntelliJ / IDEA
+.idea/
+*.iml
+out/
+# Gradle / Maven (por si a futuro)
+.gradle/
+build/
+target/
+.mvn/
+# Eclipse (por si abres en otro IDE)
+.project
+.classpath
+.settings/
+# SO y otros
+.DS_Store
+Thumbs.db
